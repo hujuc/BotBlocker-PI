@@ -2,7 +2,7 @@
 
 Final-year project for BSc in Software Engineering @ UA
 
-**Goal**: Detect and block automated bots in social media, using real-time behavioral analysis and browser-based integration.
+**Goal**: A browser extension + web platform to detect and block AI-managed social media accounts using community-driven credibility scoring.
 
 - Project Organization available [here](https://github.com/BotBlocker-pi)
 
